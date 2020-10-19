@@ -6,6 +6,8 @@ import Banner from "./Banner";
 import Nav from "./Nav";
 
 function App() {
+  console.log("prueba para arender a usar ramas en git")
+  const a = 0;
   return (
     <div className="App">
       <Nav />
